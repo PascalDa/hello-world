@@ -1,2 +1,4 @@
 # hello-world
-First repositry creation
+First repository creation
+
+To test several tips and to undestand the spirit of the tools proposed.
